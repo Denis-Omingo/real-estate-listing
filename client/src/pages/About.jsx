@@ -3,7 +3,7 @@ import React from 'react'
 export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Sahand Estate</h1>
+      <h1 className='text-3xl font-bold mb-4 text-slate-900'>About Amingo Estate</h1>
       <p className='mb-4 text-slate-700'>
         Welcome to Amingo Estate, a cutting-edge real estate project meticulously crafted with the latest technologies.
          Founded and developed by Denis Omingo, Amingo Estate stands as a testament to innovation and modernity in the real estate sector.
@@ -17,9 +17,11 @@ export default function About() {
           Join us on this journey where technology meets real estate, and let Amingo Estate be the cornerstone of your dream home aspirations.
       </p>
       <p className='mb-4 text-slate-700'>
-      Our mission is to help our clients achieve their real estate goals by providing expert advice, personalized service, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, we are here to help you every step of the way.
+
+        As a web developer, my mission is to create innovative and user-centric digital experiences that not only meet but exceed the expectations of clients, 
+        utilizing the latest technologies and a keen understanding of design principles to build solutions that resonate and leave a lasting impact.
       </p>
-      <p className='mb-4 text-slate-700'>Our team of agents has a wealth of experience and knowledge in the real estate industry, and we are committed to providing the highest level of service to our clients. We believe that buying or selling a property should be an exciting and rewarding experience, and we are dedicated to making that a reality for each and every one of our clients.</p>
+      <p className='mb-4 text-slate-700'>I am dedicated to delivering high-quality and reliable web solutions, consistently striving for excellence, staying abreast of industry trends, and ensuring that every project reflects my unwavering commitment to craftsmanship and client satisfaction.</p>
     </div>
   )
 }
